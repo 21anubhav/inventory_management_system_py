@@ -1,0 +1,102 @@
+ID,Name,Price,Quantity
+2,milky bar,5,90
+3,cake,300,5
+4,candy,1,198
+5,kitkat,10,38
+6,brownie,50,30
+7,juice,20,40
+8,biscuit,15,60
+9,ice cream,80,25
+10,donut,40,35
+11,chocolate bar,25,55
+12,muffin,35,45
+13,coffee,100,20
+14,tea,50,30
+15,sandwich,60,25
+16,burger,120,15
+17,pizza slice,90,18
+18,hot dog,85,22
+19,roll,45,30
+20,wrap,70,18
+21,fries,50,25
+22,popcorn,35,40
+23,nachos,60,20
+24,cheese sticks,55,22
+25,chips,20,37
+26,soft drink,30,50
+27,energy drink,90,15
+28,water bottle,15,70
+29,sparkling water,25,40
+30,lemonade,35,30
+31,fruit salad,80,20
+32,veg salad,70,18
+33,grilled sandwich,65,22
+34,cheese sandwich,60,25
+35,egg puff,25,40
+36,veg puff,20,45
+37,chicken puff,35,30
+38,banana shake,50,20
+39,mango shake,55,18
+40,strawberry shake,60,15
+41,vanilla shake,50,20
+42,chocolate shake,70,18
+43,lassi,40,25
+44,buttermilk,25,30
+45,curd cup,20,40
+46,paneer roll,90,15
+47,chicken roll,110,12
+48,veg burger,100,15
+49,chicken burger,130,10
+50,fish burger,150,8
+51,plain dosa,40,11
+52,masala dosa,60,15
+53,idli,30,2
+54,vada,35,20
+55,samosa,20,40
+56,kachori,25,35
+57,rajma rice,70,15
+58,chole bhature,80,12
+59,pav bhaji,75,14
+60,aloo paratha,50,20
+61,gobhi paratha,55,18
+62,paneer paratha,70,15
+63,plain paratha,40,20
+64,uttapam,60,15
+65,chilli potato,90,8
+66,honey chilli potato,110,8
+67,spring roll,85,12
+68,momos,60,15
+69,chicken momos,90,10
+70,fried momos,80,12
+71,chicken fried momos,100,8
+72,veg thali,150,6
+73,non veg thali,200,5
+74,paneer curry,120,8
+75,chicken curry,180,5
+76,fish curry,200,4
+77,dal fry,90,10
+78,dal makhani,120,8
+79,shahi paneer,150,6
+80,kadai paneer,160,5
+81,malai kofta,140,6
+82,veg biryani,120,8
+83,chicken biryani,180,5
+84,mutton biryani,220,4
+85,egg biryani,150,6
+86,pulao,100,8
+87,jeera rice,80,4
+88,steam rice,60,12
+89,butter naan,25,30
+90,garlic naan,30,25
+91,roti,10,50
+92,missi roti,15,40
+93,lachha paratha,25,35
+94,chapati,8,60
+95,stuffed kulcha,40,20
+96,plain kulcha,30,25
+97,paneer kulcha,50,15
+98,cheese garlic bread,70,12
+99,garlic bread,60,15
+100,plain bread,20,30
+201,anubhav,200000,0,chips
+202,redbull,99,20,drinks
